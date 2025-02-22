@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF99&width=435&lines=Nanda+Anwar;Software+Engineer+%7C+Tech+Educator+%7C+Content+Creator;To+the+moon!+🚀🌕)](https://github.com/nandalfanwar)
 
 # About Me
@@ -7,12 +8,37 @@ Hi, I'm **Nanda Anwar**!
 ---
 
 ## 🚀 My Focus Areas
+=======
+<p align="center">
+  <img src="assets/svg/moon-animation.svg" width="100%">
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF99&width=435&lines=Nanda+Anwar;To+the+moon!+🚀🌕)](https://github.com/nandalfanwar)
+
+
+# About Me  
+
+Hi, I'm **Nanda Anwar (she/her)**! A **final-year Information Systems student** specializing in **AIoT (Artificial Intelligence of Things), web development, and machine learning**.  
+
+💡 Passionate about **building scalable digital solutions**, exploring **AI for real-world applications**, and integrating **IoT with cloud-based AI**. My work blends **software engineering, data science, and embedded systems** to create impactful projects.  
+
+🔍 I enjoy **researching AI applications**, contributing to **open-source projects**, and sharing **tech insights** to make learning easier for others.  
+
+🌱 Currently working on a **Exploring AIoT** and refining my skills in **Tech-field**.  
+
+🚀 Open to **collaborations**, **tech discussions**, and **new opportunities** in web development, AI, and IoT.  
+
+---
+
+## 🚀 My Focus Areas  
+>>>>>>> 5a82afb (update)
 - **Web Development** – Building scalable and modern websites  
 - **AI & IoT** – Exploring the intersection of artificial intelligence and connected devices  
 - **Tech Education** – Creating content to simplify complex concepts  
 
 ---
 
+<<<<<<< HEAD
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +49,42 @@ Hi, I'm **Nanda Anwar**!
 
 ---
 
+=======
+## 🔧 Tech Stack  
+
+### 🌐 Web Development  
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📡 IoT & Embedded Systems  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### 🛠️ Tools & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+
+>>>>>>> 5a82afb (update)
 ## 🤝 Open to Collaboration
 
 I'm open to collaborating on interesting **tech projects, AI & IoT innovations, and educational content**.  
