@@ -68,9 +68,6 @@ If you have an idea, feel free to reach out!
 ![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandalfanwar&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandalfanwar&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandalfanwar&theme=tokyonight)
-![Commit Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandalfanwar&layout=compact&theme=tokyonight)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandalfanwar&theme=tokyonight)
-
 ---
 
 ## 📬 Connect with Me
@@ -83,7 +80,6 @@ If you have an idea, feel free to reach out!
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nandalfanwar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://nandalfanwar.github.io)
 
-💡 _"To the moon! 🚀🌕"_
 
 ---
 
