@@ -20,7 +20,6 @@ Hi, I'm **Nanda Anwar (she/her)**! A **final-year Information Systems student** 
 ---
 
 ## 🚀 My Focus Areas  
->>>>>>> 5a82afb (update)
 - **Web Development** – Building scalable and modern websites  
 - **AI & IoT** – Exploring the intersection of artificial intelligence and connected devices  
 - **Tech Education** – Creating content to simplify complex concepts  
@@ -71,8 +70,6 @@ If you have an idea, feel free to reach out!
 ![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandalfanwar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandalfanwar&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandalfanwar&theme=tokyonight)
-
-![Snake animation](https://github.com/nandalfanwar/nandalfanwar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
