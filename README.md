@@ -35,8 +35,6 @@ Hi, I'm **Nanda Anwar (she/her)**! A **final-year Information Systems student** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -67,16 +65,18 @@ If you have an idea, feel free to reach out!
 
 ## 📊 GitHub Stats
 
-![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandalfanwar&show_icons=true&theme=tokyonight)
+![Nanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandalfanwar&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandalfanwar&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandalfanwar&theme=tokyonight)
+![Commit Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandalfanwar&layout=compact&theme=tokyonight)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandalfanwar&theme=tokyonight)
 
 ---
 
 ## 📬 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandalfanwar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandalfanwar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandalfanwar)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nandalfanwar)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nandalfanwar)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandalfanwar)
